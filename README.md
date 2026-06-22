@@ -82,3 +82,7 @@ Special thanks to the following testers for helping test the 1.5 branch:
 * **@mpr_reviews** on Twitter
 
 Thank you!
+
+## License
+- This project is distributed under the [CC-BY-NC-ND 4.0 License](https://github.com/ShyVortex/tlou-reduce-shadcomp/blob/main/LICENSE.md).
+- © Copyright of [@ShyVortex](https://github.com/ShyVortex), 2026.
