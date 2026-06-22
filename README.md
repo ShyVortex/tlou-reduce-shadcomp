@@ -84,5 +84,10 @@ Special thanks to the following testers for helping test the 1.5 branch:
 Thank you!
 
 ## License
-- This project is distributed under the [CC-BY-NC-ND 4.0 License](https://github.com/ShyVortex/tlou-reduce-shadcomp/blob/main/LICENSE.md).
-- © Copyright of [@ShyVortex](https://github.com/ShyVortex), 2026.
+This project is distributed under the [CC-BY-NC-ND 4.0 License](https://github.com/ShyVortex/tlou-reduce-shadcomp/blob/main/LICENSE.md).  
+This license was chosen to prevent people from redistributing the edited files under a paywall.
+
+### Legal Disclaimer
+**"The Last of Us"** and **"The Last of Us Part I"** are properties of Naughty Dog and Sony Interactive Entertainment.  
+The author of this repository is not affiliated with, associated with, or endorsed by Naughty Dog or Sony Interactive Entertainment.  
+Backup files are included in this repository solely to facilitate users in rolling back to the original files in case of any issues with their systems.
