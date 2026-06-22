@@ -38,7 +38,7 @@ The mod can be downloaded from either of the following platforms:
 
 | Status | Version | Release |
 | :----- | :------ | :------- |
-| 🚧 Experimental | 1.9.0b3 | [Download](https://github.com/ShyVortex/tlou-reduce-shadcomp/releases/tag/v1.9.0b3) |
+| 🟢 Stable | 1.9.0 | [Download](https://github.com/ShyVortex/tlou-reduce-shadcomp/releases/tag/v1.9.0) |
 
 ## How It Works
 
